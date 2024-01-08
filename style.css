@@ -392,7 +392,7 @@
 }
 
 /*Body Section-6 End*/
-/*Body Section- Start*/
+/*Body Section-7 Start*/
 
 .section7 {
     width: 1320px;
@@ -453,4 +453,57 @@
     height: 72px;
     border-radius: 0px 50px 50px 0px;
     background: #F00;
+}
+
+/*Body Section-7 End*/
+.footer {
+    color: #FFF;
+    height: 700px;
+    background: #070211;
+}
+
+.footer-section1 {
+    display: flex;
+    justify-content: space-around;
+    padding: 120px 140px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.footer-title1 {
+    font-family: Inter;
+}
+
+.footer-title2 {
+    font-family: Inter;
+}
+
+.footer-description2 {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-section2 {
+    margin: 0 140px;
+}
+
+.footer-section3 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 100px 786px;
+    gap: 25px;
+
+}
+
+.footer-description3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 140px 0 140px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    
+
 }
